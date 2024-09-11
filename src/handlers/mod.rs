@@ -1,0 +1,1 @@
+pub mod hello;  // Include the hello handler
